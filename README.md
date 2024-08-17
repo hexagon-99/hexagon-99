@@ -9,4 +9,6 @@ https://618.neocities.org
 
 contact
 - discord: hexagon99
-- email:   hexagon909@proton.me
+- email:   hexagon909@proton.me (yeah yeah, i know)
+
+il make use of this eventually
